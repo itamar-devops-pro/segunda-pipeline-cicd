@@ -22,4 +22,4 @@ jobs:
           push: true
           tags: |
             itamarbf/aula-primeira-pipeline:v${{ github.run_number }}
-            iitamarbf/aula-primeira-pipeline:latest
+            itamarbf/aula-primeira-pipeline:latest
